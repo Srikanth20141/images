@@ -4,19 +4,19 @@
          "ID":53,
          "RadioName":"SUN FM",
          "RadioURL":"http://stream.zenolive.com/4mbfcn4mf24tv",
-         "RadioDesc":"The Desi World Radio is introducing an internet radio that can access more than 500 Desi radio stations in over 150 countries around the world with no monthly fees.",
+         "RadioDesc":"English Radio",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desiworldradio.com",
-         "RadioPic":"url.com/RadioPics/53.png?dt=2515202008:15:14"
+         "RadioPic":"https://raw.githubusercontent.com/Srikanth20141/images/master/sunfm.png"
       },
       {
          "ID":54,
-         "RadioName":"Desi Music Mix",
+         "RadioName":"Shakthi FM",
          "RadioURL":"http://66.23.234.242:8012/;",
-         "RadioDesc":"Desi Music Mix radio is a Desi radio streaming Hindi, Punjabi and Bhangra songs 24/7.",
+         "RadioDesc":"Tamil Radio ",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desimusicmix.com/",
-         "RadioPic":"url.com/RadioPics/54.png?dt=2515202008:15:14"
+         "RadioPic":"https://raw.githubusercontent.com/Srikanth20141/images/master/sunfm.png"
       },
       {
          "ID":55,
@@ -25,7 +25,7 @@
          "RadioDesc":"Dhol Radio is the first Punjabi Radio which is broadcasting from a village of Punjab. Dhol Radio 24/7 Punjabi Music, Bhangra.",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.dholradio.co/",
-         "RadioPic":"url.com/RadioPics/55.png?dt=2515202008:15:14"
+         "RadioPic":"https://raw.githubusercontent.com/Srikanth20141/images/master/shakthifm.png"
       },
       {
          "ID":57,
