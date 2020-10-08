@@ -57,7 +57,7 @@
       {
          "ID":64,
          "RadioName":"E FM",
-         "RadioURL":"http://108.61.34.50:7874/;stream.mp3
+         "RadioURL":"http://108.61.34.50:7874/;stream.mp3"
          "RadioDesc":"English",
          "RadioShortDesc":null,
          "RadioWebsite":"http://channpardesi.com",
