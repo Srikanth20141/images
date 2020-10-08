@@ -57,7 +57,7 @@
       {
          "ID":64,
          "RadioName":"Gold FM",
-         "RadioURL":"http://209.133.216.3:7048/;stream.mp3",
+         "RadioURL":"http://209.133.216.3:7048/",
          "RadioDesc":"English",
          "RadioShortDesc":null,
          "RadioWebsite":"http://channpardesi.com",
