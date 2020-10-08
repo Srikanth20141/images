@@ -20,7 +20,7 @@
       },
       {
          "ID":55,
-         "RadioName":"Dhol Radio 24x7",
+         "RadioName":"Shaa FM",
          "RadioURL":"http://gill.sukhpal.net:8000/;",
          "RadioDesc":"Dhol Radio is the first Punjabi Radio which is broadcasting from a village of Punjab. Dhol Radio 24/7 Punjabi Music, Bhangra.",
          "RadioShortDesc":null,
@@ -29,7 +29,7 @@
       },
       {
          "ID":57,
-         "RadioName":"Humsafar Radio Canada",
+         "RadioName":"Gold FM",
          "RadioURL":"http://66.90.104.41:8214/;",
          "RadioDesc":"Radio Humsafar streaming in Hindi, Punjabi, Urdu and English live from Canada.",
          "RadioShortDesc":null,
