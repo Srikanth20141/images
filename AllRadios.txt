@@ -2,8 +2,8 @@
    "Data":[
       {
          "ID":53,
-         "RadioName":"Capital FM not working",
-         "RadioURL":"https://node-16.zeno.fm/vwhvpryd3qzuv?rj-ttl=5&rj-tok=AAABdPlwQIYAvnu4tjaZ7BCeBw",
+         "RadioName":"Shakthi FM T",
+         "RadioURL":"https://str2b.openstream.co/1448?aw_0_1st.collectionid=4620&stationId=4620&publisherId=1472&k=1602210646",
          "RadioDesc":"Tamil",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.desiworldradio.com",
@@ -20,8 +20,8 @@
       },
       {
          "ID":55,
-         "RadioName":"TNL Radio",
-         "RadioURL":"http://live.tnlrn.com:8010/live.mp3",
+         "RadioName":"Hello FM 106.4 Chennai T",
+         "RadioURL":"https://node-31.zeno.fm/4g65yz9gg0quv.aac?rj-ttl=5&rj-tok=AAABdQs_2OEAhQJ0R7SqsBiYGw",
          "RadioDesc":"English",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.dholradio.co/",
@@ -29,8 +29,8 @@
       },
       {
          "ID":57,
-         "RadioName":"RED FM",
-         "RadioURL":"http://shaincast.caster.fm:47830/listen.mp3",
+         "RadioName":"Sooriyan FM",
+         "RadioURL":"https://eu10b.serverse.com:1936/sooriyanfm/sooriyanfm/media_w1152102784_96587.aac",
          "RadioDesc":"English",
          "RadioShortDesc":null,
          "RadioWebsite":"http://www.radiohumsafar.com",
